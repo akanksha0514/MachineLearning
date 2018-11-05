@@ -1,5 +1,6 @@
 # MachineLearning
-This is the sourcecode of Kaggle's machine learning exercise: Building Machine learning models
+This is the sourcecode of Kaggle's machine learning exercise: Building Machine learning models.
+
 I have used scikit-learn library to create a model.
 The steps to building and using a model are:
 
