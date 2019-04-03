@@ -10,6 +10,7 @@ The steps to building and using a model are:
     Evaluate: Determine how accurate the model's predictions are.
 
 --------------------------*******-----------------------------
+
 Download fashion training and test datasets using below link: 
 https://www.kaggle.com/zalando-research/fashionmnist#fashion-mnist_train.csv
 
